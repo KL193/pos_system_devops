@@ -1,0 +1,4 @@
+Mongodb cluster o 
+
+db user = KL193
+pw  = KAV@123kav
